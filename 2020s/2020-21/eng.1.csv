@@ -167,6 +167,7 @@ Round,Date,Team 1,FT,Team 2
 18,Tue Jan 12 2021,Burnley FC,0-1,Manchester United FC
 18,Tue Jan 12 2021,Wolverhampton Wanderers FC,1-2,Everton FC
 18,Wed Jan 13 2021,Manchester City FC,1-0,Brighton & Hove Albion FC
+16,Wed Jan 13 2021,Tottenham Hotspur FC,1-1,Fulham FC
 18,Thur Jan 14 2021,Arsenal FC,0-0,Crystal Palace FC
 19,Sat Jan 16 2021,Wolverhampton Wanderers FC,2-3,West Bromwich Albion FC
 19,Sat Jan 16 2021,Leeds United FC,0-1,Brighton & Hove Albion FC
@@ -182,6 +183,7 @@ Round,Date,Team 1,FT,Team 2
 1,Wed Jan 20 2021,Manchester City FC,2-0,Aston Villa FC
 18,Wed Jan 20 2021,Fulham FC,1-2,Manchester United FC
 18,Thur Jan 21 2021,Liverpool FC,0-1,Burnley FC
+11,Sat Jan 23 2021,Aston Villa FC,2-0,Newcastle United FC
 20,Tue Jan 26 2021,Newcastle United FC,1-2,Leeds United FC
 20,Tue Jan 26 2021,Crystal Palace FC,2-3,West Ham United FC
 20,Tue Jan 26 2021,West Bromwich Albion FC,0-5,Manchester City FC
@@ -191,7 +193,7 @@ Round,Date,Team 1,FT,Team 2
 20,Wed Jan 27 2021,Brighton & Hove Albion FC,0-0,Fulham FC
 20,Wed Jan 27 2021,Everton FC,1-1,Leicester City FC
 20,Wed Jan 27 2021,Manchester United FC,1-2,Sheffield United FC
-20,Wed Jan 27 2021,Tottenham Hotspur FC,,Liverpool FC
+20,Thur Jan 28 2021,Tottenham Hotspur FC,1-3,Liverpool FC
 21,Sat Jan 30 2021,Arsenal FC,,Manchester United FC
 21,Sat Jan 30 2021,Brighton & Hove Albion FC,,Tottenham Hotspur FC
 21,Sat Jan 30 2021,Chelsea FC,,Burnley FC
