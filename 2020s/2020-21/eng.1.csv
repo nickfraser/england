@@ -262,16 +262,16 @@ Round,Date,Team 1,FT,Team 2
 29,Thur Mar 4 2021,West Bromwich Albion FC,0-1,Everton FC
 33,Thur Mar 4 2021,Fulham FC,0-1,Tottenham Hotspur FC
 29,Thur Mar 4 2021,Liverpool FC,0-1,Chelsea FC
-27,Sat Mar 6 2021,Aston Villa FC,,Wolverhampton Wanderers FC
-27,Sat Mar 6 2021,Brighton & Hove Albion FC,,Leicester City FC
-27,Sat Mar 6 2021,Burnley FC,,Arsenal FC
-27,Sat Mar 6 2021,Chelsea FC,,Everton FC
-27,Sat Mar 6 2021,Liverpool FC,,Fulham FC
-27,Sat Mar 6 2021,Manchester City FC,,Manchester United FC
-27,Sat Mar 6 2021,Sheffield United FC,,Southampton FC
-27,Sat Mar 6 2021,Tottenham Hotspur FC,,Crystal Palace FC
-27,Sat Mar 6 2021,West Bromwich Albion FC,,Newcastle United FC
-27,Sat Mar 6 2021,West Ham United FC,,Leeds United FC
+27,Sat Mar 6 2021,Burnley FC,1-1,Arsenal FC
+27,Sat Mar 6 2021,Sheffield United FC,0-2,Southampton FC
+27,Sat Mar 6 2021,Aston Villa FC,0-0,Wolverhampton Wanderers FC
+27,Sat Mar 6 2021,Brighton & Hove Albion FC,1-2,Leicester City FC
+27,Sun Mar 7 2021,West Bromwich Albion FC,0-0,Newcastle United FC
+27,Sun Mar 7 2021,Liverpool FC,0-1,Fulham FC
+27,Sun Mar 7 2021,Manchester City FC,0-2,Manchester United FC
+27,Sun Mar 7 2021,Tottenham Hotspur FC,4-1,Crystal Palace FC
+27,Mon Mar 8 2021,Chelsea FC,,Everton FC
+27,Mon Mar 8 2021,West Ham United FC,,Leeds United FC
 28,Sat Mar 13 2021,Arsenal FC,,Tottenham Hotspur FC
 28,Sat Mar 13 2021,Crystal Palace FC,,West Bromwich Albion FC
 28,Sat Mar 13 2021,Everton FC,,Burnley FC
