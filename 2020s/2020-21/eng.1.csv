@@ -329,15 +329,15 @@ Round,Date,Team 1,FT,Team 2
 33,Sun Apr 25 2021,Aston Villa FC,2-2,West Bromwich Albion FC
 33,Mon Apr 26 2021,Leicester City FC,2-1,Crystal Palace FC
 34,Fri Apr 30 2021,Southampton FC,1-1,Leicester City FC
-34,Sat May 1 2021,Brighton & Hove Albion FC,,Leeds United FC
-34,Sat May 1 2021,Burnley FC,,West Ham United FC
-34,Sat May 1 2021,Chelsea FC,,Fulham FC
-34,Sat May 1 2021,Crystal Palace FC,,Manchester City FC
-34,Sat May 1 2021,Everton FC,,Aston Villa FC
+34,Sat May 1 2021,Crystal Palace FC,0-2,Manchester City FC
+34,Sat May 1 2021,Brighton & Hove Albion FC,2-0,Leeds United FC
+34,Sat May 1 2021,Chelsea FC,2-0,Fulham FC
+34,Sat May 1 2021,Everton FC,1-2,Aston Villa FC
 34,Sat May 1 2021,Manchester United FC,,Liverpool FC
-34,Sat May 1 2021,Newcastle United FC,,Arsenal FC
-34,Sat May 1 2021,Tottenham Hotspur FC,,Sheffield United FC
-34,Sat May 1 2021,West Bromwich Albion FC,,Wolverhampton Wanderers FC
+34,Sun May 2 2021,Newcastle United FC,0-2,Arsenal FC
+34,Sun May 2 2021,Tottenham Hotspur FC,4-0,Sheffield United FC
+34,Mon May 3 2021,West Bromwich Albion FC,1-1,Wolverhampton Wanderers FC
+34,Mon May 3 2021,Burnley FC,1-2,West Ham United FC
 35,Sat May 8 2021,Arsenal FC,,West Bromwich Albion FC
 35,Sat May 8 2021,Aston Villa FC,,Manchester United FC
 35,Sat May 8 2021,Fulham FC,,Burnley FC
