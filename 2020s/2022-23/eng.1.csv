@@ -66,13 +66,23 @@ Round,Date,Team 1,FT,Team 2
 8,Sat Sept 17 2022,Tottenham Hotspur FC,6-2,Leicester City FC
 8,Sun Sept 18 2022,Brentford FC,0-3,Arsenal FC
 8,Sun Sept 18 2022,Everton FC,1-0,West Ham United FC
-9,Sat Oct 01 2022,Arsenal FC,,Tottenham Hotspur FC
-9,Sat Oct 01 2022,AFC Bournemouth,,Brentford FC
-9,Sat Oct 01 2022,Crystal Palace FC,,Chelsea FC
-9,Sat Oct 01 2022,Fulham FC,,Newcastle United FC
-9,Sat Oct 01 2022,Liverpool FC,,Brighton & Hove Albion FC
-9,Sat Oct 01 2022,Southampton FC,,Everton FC
-9,Sat Oct 01 2022,West Ham United FC,,Wolverhampton Wanderers FC
+9,Sat Oct 01 2022,Arsenal FC,3-1,Tottenham Hotspur FC
+9,Sat Oct 01 2022,AFC Bournemouth,0-0,Brentford FC
+9,Sat Oct 01 2022,Crystal Palace FC,1-2,Chelsea FC
+9,Sat Oct 01 2022,Fulham FC,1-4,Newcastle United FC
+9,Sat Oct 01 2022,Liverpool FC,3-3,Brighton & Hove Albion FC
+9,Sat Oct 01 2022,Southampton FC,1-2,Everton FC
+9,Sat Oct 01 2022,West Ham United FC,2-0,Wolverhampton Wanderers FC
 9,Sun Oct 02 2022,Manchester City FC,,Manchester United FC
 9,Sun Oct 02 2022,Leeds United FC,,Aston Villa FC
 9,Mon Oct 03 2022,Leicester City FC,,Nottingham Forest FC
+10,Sat Oct 08 2022,AFC Bournemouth,,Leicester City FC
+10,Sat Oct 08 2022,Chelsea FC,,Wolverhampton Wanderers FC
+10,Sat Oct 08 2022,Manchester City FC,,Southampton FC
+10,Sat Oct 08 2022,Newcastle United FC,,Brentford FC
+10,Sat Oct 08 2022,Brighton & Hove Albion FC,,Tottenham Hotspur FC
+10,Sun Oct 09 2022,Crystal Palace FC,,Leeds United FC
+10,Sun Oct 09 2022,West Ham United FC,,Fulham FC
+10,Sun Oct 09 2022,Arsenal FC,,Liverpool FC
+10,Sun Oct 09 2022,Everton FC,,Manchester United FC
+10,Mon Oct 10 2022,Nottingham Forest FC,,Aston Villa FC
